@@ -11,6 +11,6 @@ This is me in 2019:
 
 This is me graduated from University of Massachusetts Amherst:
 
-<img src="assets/graduation。jpg" alt="me-graduation" length="30%" />
+<img src="assets/graduation.jpg" alt="me-graduation" length="30%" />
 
 钟山风雨起苍黄，云开衡岳积阴止。 很高兴认识你！
